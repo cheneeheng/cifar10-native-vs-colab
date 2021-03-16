@@ -6,6 +6,7 @@ Commit Id: 41aae69deba29327f389592a4402fb14dc890a9c
 **Changelog**  
 21.03.16 : Updated the GPU trainng code to run in Tensorflow2.
 
+---
 # Convnet Training Comparison
 
 The recent announcement of TPU availability on Colab made me wonder the amount of time required to train a Convnet on various options available to me. In this repo, I have included the links to Colab notebook and the time taken on each runtime accelerator including the training time on my workstation (**NVIDIA 1080TI**).

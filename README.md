@@ -4,7 +4,7 @@ Repo     : katnoria/cifar10-native-vs-colab
 Commit Id: 41aae69deba29327f389592a4402fb14dc890a9c
 
 **Changelog**  
-21.03.16 : Updated the GPU trainng code to run in Tensorflow2.
+21.03.16 : Updated the GPU colab code to run in Tensorflow2.
 
 ---
 # Convnet Training Comparison
